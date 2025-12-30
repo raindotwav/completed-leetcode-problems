@@ -1,3 +1,7 @@
+here's the link to the leetcode problem: 
+https://leetcode.com/problems/palindrome-number/
+
+
 Given an integer x, return true if x is a, and false otherwise.
 
  
